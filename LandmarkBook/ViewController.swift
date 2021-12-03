@@ -30,6 +30,8 @@ final class ViewController: UIViewController {
         landmarkImages.append(UIImage(named: "greatwall")!)
         landmarkImages.append(UIImage(named: "kremlin")!)
         landmarkImages.append(UIImage(named: "tajmahal")!)
+        
+        print("game over")
     }
 }
 
